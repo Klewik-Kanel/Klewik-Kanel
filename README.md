@@ -17,7 +17,7 @@
 ---
 
 ### 🧪 Current Research & "The Grind"
-- **Agentic AI:** Developing autonomous threat intelligence agents.
+- **Agentic AI:** Developing autonomous intelligence agents.
 - **Neural Networks:** Researching performance optimization for business intelligence.
 - **Cyber-HUD Desktop:** Perfecting the ultimate productive developer environment.
 
