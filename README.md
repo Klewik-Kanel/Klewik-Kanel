@@ -1,51 +1,28 @@
-# ⚡ SYSTEM STATUS: ONLINE
+# 🌌 Welcome to the Mainframe | Klewik-Kanel
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=code&color=00e5ff&height=150&section=header&text=USER_INITIALIZED&fontSize=70&animation=fadeIn" />
-</div>
-
-## 📟 [K_PANDEY@NSUT_TERMINAL]:~$ whoami
-
-> **Placement Coordinator | PlaceComm'26** > **M.Tech - Computer Science & AI (CSAI)** > **Netaji Subhas University of Technology, Delhi**
+### 🧑‍💻 About Me
+- 🎓 **M.Tech Student** @ Netaji Subhas University of Technology (NSUT), Delhi
+- 🤖 **CSAI Specialist** focusing on Artificial Neural Networks & Agentic AI
+- 🛡️ **Placement Coordinator** for PlaceComm '26
+- 🐧 **Arch Linux Enthusiast** (Running on ASUS ROG Strix G512LI)
 
 ---
 
-### 🟢 SYSTEM LOGS (Current Tasks)
-- 🚀 **Placement Logistics:** Coordinating industry-academia bridge for the Class of 2026.
-- 🧠 **Neural Networks:** Deep-diving into Business Intelligence and ANN architectures.
-- 🎸 **Side Quest:** Learning the fretboard and basic guitar melodies.
-- 🐧 **Environment:** Powering everything via **EndeavourOS** (Arch Linux) on an **ASUS ROG Strix**.
+### 🛠️ Tech Stack & Neural Path
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Linux](https://img.shields.io/badge/EndeavourOS-7F3FBF?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ---
 
-### 🛠 TECH_STACK.sh
-bash
-#!/bin/bash
+### 🧪 Current Research & "The Grind"
+- **Agentic AI:** Developing autonomous threat intelligence agents.
+- **Neural Networks:** Researching performance optimization for business intelligence.
+- **Cyber-HUD Desktop:** Perfecting the ultimate productive developer environment.
 
-# Core_Competencies
-echo "Artificial Intelligence, Machine Learning, Big Data"
+---
 
-# Frameworks_and_Tools
-export TOOLS=["Hadoop", "Hive", "Keras", "TensorFlow"]
-
-# OS_Preference
-neofetch --distro "EndeavourOS" --theme "Cyberpunk-Neon"
-
-📊 DATA_VISUALIZATION
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DKlewik-Kanel%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Stats" />
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DKlewik-Kanel%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
-</div>
-
-📡 CONNECT_WITH_NODE
-Email: [ENCRYPTED_DATA]
-
-Location: Delhi, India (GMT +5:30)
-
-Status: Open for academic collaboration and placement inquiries.
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dslice%26color%3D00e5ff%26height%3D30%26section%3Dfooter" />
-</div>
+### 📈 System Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Klewik-Kanel&show_icons=true&theme=synthwave&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Klewik-Kanel&layout=compact&theme=synthwave&hide_border=true)
